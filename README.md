@@ -20,16 +20,19 @@ Future Computer Science engineer from EHEI Oujda, passionate about .NET developm
 - PHP Developer Intern, Algolus (2022)
 
 ## Projects
-### Urban Shuttle Tracking System
-- **LYTRACK STUDENT**: Mobile app for secure student authentication, profile display, and bus subscription management with trip history.
-- **LYTRACK SCANNER**: Mobile app for drivers to quickly verify student subscriptions via QR code scanning.
-- **LYTRACK-DRIVER**: Real-time bus tracking app, informing passengers of capacity and analyzing driving data.
-- **LYTRACK-CLIENT**: Mobile app for users to manage accounts, track buses in real-time, and get detailed trip information.
-- **LYTRACK – Student Management**: Web app for student management, subscriptions, and advertising campaigns with real-time analytics for administrators.
+<details>
+  <summary><b>🚀 Urban Shuttle Tracking System (Click to expand)</b></summary>
+
+  - **LYTRACK STUDENT**: Mobile app for secure student authentication, profile display, and bus subscription management with trip history.
+  - **LYTRACK SCANNER**: Mobile app for drivers to quickly verify student subscriptions via QR code scanning.
+  - **LYTRACK-DRIVER**: Real-time bus tracking app, informing passengers of capacity and analyzing driving data.
+  - **LYTRACK-CLIENT**: Mobile app for users to manage accounts, track buses in real-time, and get detailed trip information.
+  - **LYTRACK – Student Management**: Web app for student management, subscriptions, and advertising campaigns with real-time analytics for administrators.
+</details>
 
 ## Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,python,java,php,angular,nodejs,react,django,html,css,bootstrap,mysql,mongodb,sqlserver,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,python,java,php,angular,nodejs,react,django,html,css,bootstrap,mysql,mongodb,git&perline=9" />
 </p>
 
 ## Languages
