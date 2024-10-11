@@ -72,23 +72,45 @@ A comprehensive tracking and management system for public transportation.
   **Technologies:**  
   - ASP.NET Core, Node.js, Android (Java), Python, MySQL, SQLite, Entity Framework, and XAMPP
 
+<details>
+  <summary><b>🚀 Click here for more projects</b></summary>
+  
+  ### E-commerce Platform
+  🛒 An online marketplace for local artisans to sell their handcrafted products.
+  
+  ### Smart Home Automation System
+  🏠 IoT-based system for controlling home appliances and monitoring energy usage.
+  
+  ### AI-powered Chatbot
+  🤖 A conversational AI assistant for customer support in multiple languages.
+</details>
+
 ---
 
 ## Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,python,java,php,angular,nodejs,react,django,html,css,bootstrap,mysql,mongodb,sqlserver,git&perline=9" />
 </p>
+
+<details>
+  <summary><b>🔧 Click to see more skills</b></summary>
+  
+  ### Programming Languages
+  - C#, JavaScript, Python, Java, PHP, C++, TypeScript
+  
+  ### Frameworks & Libraries
+  - ASP.NET Core, Angular, React, Node.js, Django, Spring Boot, Express.js
+  
+  ### Databases
+  - SQL Server, MySQL, PostgreSQL, MongoDB, SQLite
+  
+  ### Tools & Technologies
+  - Git, Docker, Azure, AWS, RESTful APIs, GraphQL, Microservices
+  
+  ### Methodologies
+  - Agile, Scrum, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
+</details>
 
 ---
 
@@ -125,6 +147,10 @@ I am deeply passionate about:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmineChibani/AmineChibani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 Thank you for visiting my portfolio repository! Feel free to explore the projects and reach out with any questions or opportunities.
